@@ -1,0 +1,17 @@
+{
+  "name": "solid-deep-signals",
+  "version": "0.0.0",
+  "description": "Alternative nested reactivity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "solid-js": "^1.6.11"
+  }
+}
